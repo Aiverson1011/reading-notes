@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Aiverson1011/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, My name is Amanda.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*A few things about me*:
+- I have 2 kitty cats
+- My favorite color is red
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
 
-```markdown
-Syntax highlighted code block
+1. [Class 01](markdown.md) 
+2. [Class 02](codersComputer.md) 
+3. [Class 03](git.md) 
+4. [Class 04]() 
+5. [Class 05]() 
+6. [Class 06]() 
+7. [Class 07]() 
+8. [Class 08]() 
+9. [Class 09]() 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Profile
 
-1. Numbered
-2. List
+Connect with me on:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aiverson1011/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Twitter](https://www.twitter.com)
+2. [LinkedIn](linkedin.com)
