@@ -9,8 +9,8 @@ Hello, My name is Amanda.
 
 ## Table of Contents
 
-1. [Class 01](markdown.md) 
-2. [Class 02](codersComputer.md) 
+1. [Class 01](markdown.html) 
+2. [Class 02](codersComputer.html) 
 3. [Class 03](git.md) 
 4. [Class 04]() 
 5. [Class 05]() 
