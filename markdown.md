@@ -1,6 +1,6 @@
 # Markdown
 
-Today, i learned about markdown. It's pretty cool
+Today, I learned about markdown. It's pretty cool
 
 1. **Things can be bolded**
 
