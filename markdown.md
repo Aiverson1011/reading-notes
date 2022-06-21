@@ -10,6 +10,12 @@ and it is loads of fun!
 let name = 'amanda';
 ```
 
+Ordered List:
+1. This is an item
+
+Unordered List
+* this is an item
+
 See more [Here](https://www.codefellows.com)
 
 Image here 
