@@ -1,37 +1,21 @@
-## Amanda's Home Page
+# Reading Notes Repo
 
-You can use the [editor on GitHub](https://github.com/Aiverson1011/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Explain “growth mindset” in your own words
+> Growth mindset is the mindset of knowing that you can learn skills within different industries through hard work and dedication. It is the opposite of "fixed".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Include 3 reminders to yourself of how to keep yourself in a growth mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are 3 reminders to keep me in the growth mindset:
+* ask for help
+* don't give up
+* persist!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Here is a [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) of more information
 
-- Bulleted
-- List
+## About Me!
 
-1. Numbered
-2. List
+My name is amanda. I have 2 cats. I love Coffee and Coding.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aiverson1011/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![cats](catspichere.png)
