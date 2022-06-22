@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amanda's Home Page
 
 You can use the [editor on GitHub](https://github.com/Aiverson1011/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
