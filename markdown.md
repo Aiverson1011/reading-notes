@@ -12,6 +12,7 @@ let name = 'amanda';
 
 Ordered List:
 1. This is an item
+2. Here is a 2nd item
 
 Unordered List
 * this is an item
