@@ -1,8 +1,12 @@
 # Reading Notes Repo
 
-This is my home page!
+## Table of Contents
 
-This is a change!
+1. [Markdown](markdown)
+2. [Coder's Computer](mycomputer)
+3. [Git vs GitHub](day3)
+4. [HTML](html)
 
+## About Me
 
-Pick me! I'm going to be a merge conflict!!
+My name is Amanda, I have 2 cats. I love coffee.
